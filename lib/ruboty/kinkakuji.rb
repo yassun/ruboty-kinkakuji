@@ -1,7 +1,3 @@
 require "ruboty/kinkakuji/version"
+require "ruboty/handlers/kinkakuji"
 
-module Ruboty
-  module Kinkakuji
-    # Your code goes here...
-  end
-end

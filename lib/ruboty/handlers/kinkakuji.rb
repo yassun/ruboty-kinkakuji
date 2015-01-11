@@ -1,5 +1,3 @@
-require "ruboty/kinkakuji/actions/kinkakuji"
-
 module Ruboty
   module Handlers
     class Kinkakuji < Base
