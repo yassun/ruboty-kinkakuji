@@ -1,6 +1,6 @@
 # Ruboty::Kinkakuji
 
-TODO: Write a gem description
+An ruboty handler to show kinkakuji image.
 
 ## Installation
 
@@ -20,12 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+## Usage
 
-## Contributing
+```
+> ruboty kinkakuji 
+```
 
-1. Fork it ( https://github.com/[my-github-username]/ruboty-kinkakuji/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+
