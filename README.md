@@ -20,8 +20,6 @@ Or install it yourself as:
 
 ## Usage
 
-## Usage
-
 ```
 > ruboty kinkakuji 
 ```
